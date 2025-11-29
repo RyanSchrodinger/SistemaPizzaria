@@ -14,19 +14,6 @@ O objetivo deste projeto é demonstrar a estrutura completa de um banco de dados
 * **Scripts SQL de criação e inserção**
 * **Documentação das entidades**
 
-## 📂 Estrutura de Diretórios
-
-```
-/README.md
-/der/
-   diagrama.png
-/sql/
-   create_tables.sql
-   inserts_exemplo.sql
-/planilhas/
-   entidades_pizzaria.xlsx
-```
-
 ## 🗂️ Entidades Principais
 
 ### 🧩 Tabela Cliente
